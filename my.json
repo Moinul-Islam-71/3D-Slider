@@ -1,0 +1,42 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "codesnap.backgroundColor": "#fff",
+    "codesnap.boxShadow": "none",
+    "files.associations": {
+    " *. cSS": "css"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "codesnap.containerPadding": "0em",
+    "cSpell.caseSensitive": true,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 30,
+    "RainbowBrackets.depreciation-notice": false,
+    "indentRainbow.colors": [
+        "#7209b710",
+        "#f7258510",
+        "#f7b80110",
+        "#02c39a10"
+    ],
+    "emmet.triggerExpansionOnTab": true,
+    "extensions.ignoreRecommendations": true,
+    "tailwindCSS.classAttributes": [
+        "class",
+        "className",
+        "ngClass",
+        ".*Class",
+        ".*ClassName"
+    ],
+    "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+    },
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/USER/settingPC/vscode/custom.css"
+    ],
+    "editor.mouseWheelZoom": true,
+    "workbench.colorTheme": "Dracula Theme",
+    "workbench.iconTheme": "material-icon-theme"
+}
+    
